@@ -41,4 +41,7 @@ A:
   3. get closer and closer and return 
         // usually we have 2 returns in recursive algs
    
-S: 
+Statement: Anything you can do with a recursion Can  be done iteratively ( loop )
+
+Q: benefits of using recursion over iteration :   
+A: 
